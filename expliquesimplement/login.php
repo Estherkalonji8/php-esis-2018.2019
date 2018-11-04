@@ -27,7 +27,7 @@
 		   <label><b>email:</b></label>
 		     <input type ="email" placeholder="saisir l email" name="email" required><br/>
 		    <label><b>sexe:</b></label>
-			  <input type ="sexe" placeholder="saisir le sexe" name="sexe" required><br/><br>
+			  <input type ="sexe" placeholder="saisir le sexe" name="sexe" required><br/>
 			   <input type="submit" id='submit' value='creer'>
 	
 		</form>
