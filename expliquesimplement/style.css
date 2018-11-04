@@ -1,0 +1,52 @@
+body{
+	background: #67BE4B;
+}
+ #contenu{
+	width:500px;
+	margin: 0 auto;
+	margin-top:15%;
+ }
+ /*Bordered form*/
+	width:100%
+	padding: 45%
+	border: 2px solid  #f1f1f1;
+	background:  #fff;
+	box-shadow: 0  0  20px  0 rgba(0,0,0, 0.2),  5px  5px  0  rgba(0,0,0,0.30);
+	}
+	#contenu{
+	width: 40%
+	margin: 0 auto;
+	padding-bottom: 15px;
+	}
+	/*Full-width inputs*/
+	input[type=text], input [type=passeword]{
+		width: 100%;
+		padding: 15px  25px;
+		margin: 10px  0;
+		display: inline-block;
+		border: 1px solid #ccc;
+		box-sizing: border-box;
+		}
+		 /*set a style for buttons*/
+		 input[type=submit] {
+			background-color:  #53af57;
+			color: yellow;
+			padding: 18px  22px
+			margin:  10px  0;
+			border: none;
+			cusor: pointer;
+			width:100%;
+			}
+		input[type=submit] : hover {
+			background-color: yellow;
+			color:  #53af57;
+			width: 100%;
+		}
+		input[type=submit] : hover {
+				background-color: yellow;
+			    color:  #53af57;
+				boder: 2px solid #53af57;
+				}
+			
+	
+	
